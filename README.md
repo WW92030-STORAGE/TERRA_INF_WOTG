@@ -11,7 +11,7 @@ Modded Terraria Playthrough (v2) <br/>
 - AlchemistNPC Lite + Snatcher
 - MrPlague Races + FlareRin (Protogen Vanity)
 - LuiAFK + VeinMiner + Town Census + Recipe Browser
-- QWERTY + Zenith Items
+- Zenith Items
 
 - Calamity Infernum mode
 - Metroid mod + Subworlds
